@@ -10,8 +10,6 @@
 **TempSync** é um protótipo de **baixo custo** para **monitorar temperatura em tempo real**, integrando **Arduino UNO R3 + DHT11** com uma aplicação **Python/Flask** e banco **SQLite**.  
 Os dados são coletados no Arduino, enviados pela **porta serial** e persistidos via API Flask, com **dashboard**, **tabela de leituras** e **exportação para Excel**.
 
-> Projeto acadêmico/PoC pensado para CPDs e ambientes similares. Ideal para aprendizagem, extensões de TCC e automação.
-
 ---
 
 ## ✨ Funcionalidades
